@@ -8,6 +8,11 @@
 
 
 An interactive, day-by-day learning plan designed for aspiring cybersecurity professionals. This project provides a structured roadmap with curated, high-quality free resources (videos, tutorials, labs) to guide you from foundational concepts to career readiness.
+## 🌐 Live Demo
+
+👉 **[Click here to try the interactive roadmap now!](https://MOUKA-513.github.io/90DaysOfCyberSecurity-Interactive/)** 👈
+
+---
 
 Built upon the original [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) curriculum.
 
