@@ -4,7 +4,7 @@
 
 ## 👀 Preview
 
-![Dashboard](screenshots/main.png)
+![main](screenshots/main.png)
 
 An interactive, day-by-day learning plan designed for aspiring cybersecurity professionals. This project provides a structured roadmap with curated, high-quality free resources (videos, tutorials, labs) to guide you from foundational concepts to career readiness.
 
