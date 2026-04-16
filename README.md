@@ -3,8 +3,9 @@
 ![Cyber Roadmap](https://img.shields.io/badge/90--Day-Roadmap-blue?style=for-the-badge\&logo=github)
 
 ## 👀 Preview
+<img width="1366" height="768" alt="main" src="https://github.com/user-attachments/assets/5911df9d-3bd8-4a45-a1c8-7b093d1678c4" />
 
-![main](screenshots/main.png)
+
 
 An interactive, day-by-day learning plan designed for aspiring cybersecurity professionals. This project provides a structured roadmap with curated, high-quality free resources (videos, tutorials, labs) to guide you from foundational concepts to career readiness.
 
