@@ -1,7 +1,10 @@
-# 🛡️ 90 Days of Cyber Security – Interactive Roadmap
+# 🛡️ 95 Days of Cyber Security – Interactive Roadmap
 
 ![Cyber Roadmap](https://img.shields.io/badge/90--Day-Roadmap-blue?style=for-the-badge\&logo=github)
-![90 Days Cyber Security Interactive Roadmap Screenshot](screenshots/main.png)
+
+## 👀 Preview
+
+![Dashboard](screenshots/main.png)
 
 An interactive, day-by-day learning plan designed for aspiring cybersecurity professionals. This project provides a structured roadmap with curated, high-quality free resources (videos, tutorials, labs) to guide you from foundational concepts to career readiness.
 
@@ -179,9 +182,19 @@ You are free to use, modify, and distribute this project with proper attribution
 ## ⭐ Support
 
 If you found this project helpful, consider giving it a **star ⭐** on GitHub — it helps others discover it!
+
+## 💡 Why This Project?
+
+Most cybersecurity roadmaps are either too vague or overwhelming.
+
+This project gives you a **clear, daily path** with:
+- No fluff
+- Curated resources
+- Real progression from beginner to job-ready
+
 ## 📬 Connect with Me
 
 [![GitHub followers](https://img.shields.io/github/followers/MOUKA-513?label=Follow&style=social)](https://github.com/MOUKA-513)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://x.com/m0ukaa513)
+[![Twitter Follow](https://img.shields.io/twitter/follow/m0ukaa513?style=social)](https://x.com/m0ukaa513)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mouka.513)
 
