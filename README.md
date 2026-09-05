@@ -1,6 +1,6 @@
-# 🛡️ 95 Days of Cyber Security – Interactive Roadmap
+# 🛡️ 90 Days of Cyber Security – Interactive Roadmap
 
-![Cyber Roadmap](https://img.shields.io/badge/95--Day-Roadmap-blue?style=for-the-badge&logo=github)
+![Cyber Roadmap](https://img.shields.io/badge/90--Day-Roadmap-blue?style=for-the-badge&logo=github)
 
 ## 👀 Preview
 
