@@ -74,6 +74,8 @@ h1 {
   color: #b4d0f0;
   max-width: 680px;
   margin: 0.8rem auto 0;
+  font-size: 1.05rem;
+  line-height: 1.5;
 }
 
 .filter-bar {
@@ -218,5 +220,9 @@ h1 {
   }
   .days-grid {
     grid-template-columns: 1fr;
+  }
+  .filter-btn {
+    font-size: 0.75rem;
+    padding: 0.4rem 1rem;
   }
 }
